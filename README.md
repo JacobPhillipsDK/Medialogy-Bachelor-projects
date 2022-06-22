@@ -1,8 +1,8 @@
-
 # Medialogy-Bachelor-projects
 Overview over each semester topics and their relative courses
 
 3. Semester: Focus on Hand gesture detection with Image processing
+- Python with use of the OpenCV library for gesture detection in real time
 
 4. Semester: Real-time audio processing for Interactive Audiobook
 - Real-time processing of audio signals done through python
@@ -13,4 +13,4 @@ Overview over each semester topics and their relative courses
 - C# and shader programming language called HLSL
 
 6. Semester: Elicitation study with a focus on participatory design for creating dynamic and static hand gestures for virtual reality application 
-
+- C# implementation for Unity for detecting gestures in real time
