@@ -1,7 +1,7 @@
 # Medialogy-Bachelor-projects
 Overview of each semester's topics goal and learning outcome
 
-For miniproject related to the semester's 
+Projects releated to courses taken during my Bachelor
 https://github.com/JacobPhillipsDK/UniversityProjects
 
 ## 3. Semester: Focus on Hand gesture detection with Image processing
