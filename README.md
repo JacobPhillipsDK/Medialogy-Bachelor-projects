@@ -1,6 +1,9 @@
 # Medialogy-Bachelor-projects
 Overview of each semester's topics goal and learning outcome
 
+For miniproject related to the semester's 
+https://github.com/JacobPhillipsDK/UniversityProjects
+
 ## 3. Semester: Focus on Hand gesture detection with Image processing
 - Python with the use of the OpenCV library for gesture detection in real time
 
